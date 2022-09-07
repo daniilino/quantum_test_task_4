@@ -1,0 +1,9 @@
+rasterio
+pandas
+geopandas
+numpy
+opencv-python
+matplotlib
+shapely
+pytorch
+torchvision
