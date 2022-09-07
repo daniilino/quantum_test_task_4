@@ -55,7 +55,7 @@ https://www.researchgate.net/publication/334894696_On_Building_Classification_fr
 
 [U-TAE] (https://paperswithcode.com/paper/panoptic-segmentation-of-satellite-image-tim) is an architecture, concieved for the time series. In fact, the problem we are facing is not about a static state of the relief. The erosion takes place anyway, the only thing that metters for us (humans) - is how fast it is. So, maybe considering the chronological sequences of satellite imagery will helps us better track the relief change and its impact, which would provide also possibility to rank areas from the most threatened to less ones.
 
-![The land changes in time](fig 1.png)
+![The land changes in time](https://github.com/daniilino/quantum_test_task_4/blob/main/fig%201.png?raw=true)
 
 ### New approaches: Attention
 
